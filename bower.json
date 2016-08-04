@@ -1,10 +1,10 @@
 {
-    "name": "FHCTV",
+    "name": "fhctv",
     "homepage": "https://github.com/YinChaoOnline/FHCTV",
     "authors": [
     "yinchaoonline <ychaowhu@foxmail.com>"
   ],
-    "description": "towns and villages web gis app",
+    "description": "famous historic and cultural towns and villages web gis app",
     "main": "",
     "keywords": [
     "POI"
@@ -14,6 +14,7 @@
     "**/.*",
     "node_modules",
     "bower_components",
+    "js/libs",
     "test",
     "tests"
   ],
