@@ -1,0 +1,24 @@
+{
+    "name": "FHCTV",
+    "homepage": "https://github.com/YinChaoOnline/FHCTV",
+    "authors": [
+    "yinchaoonline <ychaowhu@foxmail.com>"
+  ],
+    "description": "towns and villages web gis app",
+    "main": "",
+    "keywords": [
+    "POI"
+  ],
+    "license": "MIT",
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+        "bootstrap": "~3.3.x",
+        "font-awesome": "~4.5.x"
+    }
+}
